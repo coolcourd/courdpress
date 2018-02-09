@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name: CourdPress
- * Plugin URI:
+ * Plugin URI: https://github.com/coolcourd/courdpress
  * Description: How much can you CourdPress?
  * Version: 1.0.1
  * Author: Courd Headman
