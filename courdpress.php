@@ -2,8 +2,9 @@
 /**
  * Plugin Name: CourdPress
  * Plugin URI: https://github.com/coolcourd/courdpress
+ * GitHub Plugin URI: https://github.com/coolcourd/courdpress
  * Description: How much can you CourdPress?
- * Version: 1.0.1
+ * Version: 1.0.2
  * Author: Courd Headman
  * Author URI: https://courd.ga
  *
