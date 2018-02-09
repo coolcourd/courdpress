@@ -11,10 +11,7 @@ add_shortcode('carl', 'carl_function');
 
 
 function randomqg() {
-  return '<link href="https://fonts.googleapis.com/css?family=Indie+Flower" rel="stylesheet">
-<link rel="stylesheet prefetch" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.0.0-beta/css/bootstrap.min.css">
-<link rel="stylesheet prefetch" href="http://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
-      <div id="container-fluid">
+  return '<div id="container-fluid">
 <div id="all">
   <center>
 <h1>
