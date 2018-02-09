@@ -15,7 +15,7 @@
  * even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
  *
  * @package CourdPress
- * @version 1.0.1
+ * @version 1.0.2
  * @author Courd Headman <courdheadman@gmail.com>
  * @copyright Copyright (c) 2018, Courd Headman
  */
